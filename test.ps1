@@ -1,1 +1,1 @@
-Write-Host "Hi"
+& ipconfig
